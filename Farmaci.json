@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Endoprost",
+        "classeTerapeutica": "Vasolidatori periferici",
+        "img": "./IMG-Products/EndoProst.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/bcev3ih1hjunt4d3cpfclqtq1611839809999_Endoprost%2050%20_PIL_Dicembre%202019_Cleaned.pdf"
+    },
+    {
+        "id": 2,
+        "name": "Fraxiparina",
+        "classeTerapeutica": "Antitrobotici",
+        "img": "./IMG-Products/Fraxiparine.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/iyga0acudgisztrwoxwbaqgv1498818756547_FRAXIPARINA_RCP_Nadr_Inj_IT_P_Feb2016.pdf"
+    },
+    {
+        "id": 3,
+        "name": "Viviven",
+        "classeTerapeutica": "Integratore alimentare",
+        "img": "./IMG-Products/Viviven.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/ceaypbt4xjuxqz4lelgkfwha1617269799872_PIL%20Viviven.pdf"
+    },
+    {
+        "id": 4,
+        "name": "Dedralen",
+        "classeTerapeutica": "Antipertensivi",
+        "img": "./IMG-Products/Dedralen.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/iyga0acudgisztrwoxwbaqgv1498818046713_DEDRALEN_PIL_clean_Nov15.pdf" 
+    },
+    {
+        "id": 5,
+        "name": "Nimedex",
+        "classeTerapeutica": "Antinfiammatori",
+        "img": "./IMG-Products/Nimedex.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/iyga0acudgisztrwoxwbaqgv1498819186855_Nimedex%20_it%20_PIL%20201703_Rev00_Grouping%20variation_clean%20version.pdf" 
+    },
+    {
+        "id": 6,
+        "name": "Ferplex Fol",
+        "classeTerapeutica": "Antianemici",
+        "img": "./IMG-Products/Ferplex-Fol.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/bcev3ih1hjunt4d3cpfclqtq1611840025838_FERPLEX-FOL_PIL_clean.pdf" 
+    },
+    {
+        "id": 7,
+        "name": "Nuperal",
+        "classeTerapeutica": "Antiemetico e antinausea",
+        "img": "./IMG-Products/Nuperal.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/yxeoybcnnc4t3fktclxzrvr31554288900762_nuperal_FI.pdf" 
+    },
+    {
+        "id": 8,
+        "name": "Dropaxin",
+        "classeTerapeutica": "Antidepressivi",
+        "img": "./IMG-Products/Dropaxin.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/bcev3ih1hjunt4d3cpfclqtq1611839733760_Dropaxin%20gocce_PIL_clean.pdf" 
+    },
+    {
+        "id": 9,
+        "name": "Sonirem",
+        "classeTerapeutica": "Sonirem-sedativi",
+        "img": "./IMG-Products/Sonirem.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/awvelrja1kw5fdtvgb003uyy1550052583845_Sonirem_FI_IT_clean_Set18.pdf" 
+    },
+    {
+        "id": 10,
+        "name": "Flugeral",
+        "classeTerapeutica": "Vasodilatatori cerebrali",
+        "img": "./IMG-Products/Flugeral.png",
+        "pdf": "https://www.italfarmaco.com/Portals/0/Prodotti/Allegati/iyga0acudgisztrwoxwbaqgv1498818688439_FLUGERAL_PIL_clean_Giugno15.pdf" 
+    }
+]
